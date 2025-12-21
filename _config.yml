@@ -18,7 +18,7 @@ collections:
 ##
 contact_channels_section: true
 contact_channels:
-  # email: "example@example.cl"
+  email: "huy.duong@ologn.tech"
   github: "https://github.com/ologn-tech"
   # telegram: "https://t.me/"
   # stackoverflow: "https://stackoverflow.com"
