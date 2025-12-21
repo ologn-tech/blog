@@ -2,28 +2,44 @@
 layout: home
 title: Home
 description: >-
-  Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
-  en diversas etapas del ciclo de desarrollo de aplicaciones.
+  Technical insights from O(log n) — your partner in embedded software development,
+  firmware engineering, and hardware design. Sharing knowledge from real-world
+  embedded systems projects.
 image: /assets/images/main.avif
 main_content: >
-  # Hello Friend. Hello World.
+  # O(log n) Engineering Blog
 
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
+  Deep dives into **embedded systems**, **firmware development**, and the
+  challenges of building software that runs close to the metal.
 
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
 
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+  From microcontrollers to custom hardware integrations, we share lessons learned
+  from production systems, optimization techniques, and the art of making
+  embedded software reliable, efficient, and secure.
+
+
+  **#Embedded #Firmware #HardwareDesign #SystemIntegration #IoT #RTOS**
 footer: true
 permalink: /
 ---
-## Hello World
+## What We Write About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat porta lorem, non auctor magna aliquet ac. Nam finibus in massa quis molestie. Vestibulum malesuada iaculis consequat. Phasellus sagittis, nisl non semper vestibulum, tellus enim interdum purus, ac pretium magna lectus ac turpis. Phasellus scelerisque hendrerit magna vitae fermentum. Praesent facilisis erat viverra eros tristique, id faucibus eros volutpat. Duis tempus arcu in felis sollicitudin, in sodales leo scelerisque. Nullam dapibus libero eu iaculis rhoncus.
+This blog is the technical companion to [O(log n)](https://ologn.tech/) — our embedded software and hardware outsourcing company. Here, our engineering team shares insights from the trenches: debugging stories, architectural decisions, and deep technical explorations.
 
-Nulla sed lorem imperdiet, efficitur velit et, mollis neque. Etiam placerat vehicula diam, a scelerisque diam posuere vel. Sed a convallis elit. Proin sodales, mi sit amet aliquam lobortis, ligula elit tristique justo, sodales placerat diam nunc vitae eros. Etiam maximus mauris eget sem varius, mollis ullamcorper metus porttitor. Aenean at elit sodales, rutrum ex tincidunt, molestie lorem. Donec in ante fermentum, pharetra dolor in, tempus nunc. Vivamus in lacinia lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+## Topics We Cover
+
+**Firmware & Embedded Software** — Writing efficient, reliable code for resource-constrained environments. From bare-metal programming to RTOS-based architectures, we explore the techniques that make embedded software robust and maintainable.
+
+**Hardware-Software Integration** — The art of bridging the gap between hardware and software. Driver development, peripheral interfaces, communication protocols, and the subtle challenges of making components work together seamlessly.
+
+**Performance & Optimization** — Squeezing every cycle out of limited resources. Memory optimization, power management, real-time constraints, and the profiling techniques that reveal where the bottlenecks hide.
+
+**Security in Embedded Systems** — Protecting devices in an increasingly connected world. Secure boot, encryption on constrained platforms, and defensive coding practices for firmware.
+
+## From the Team
+
+We're a team of engineers based in Ho Chi Minh City, passionate about building embedded systems that power products across industries. Whether it's rapid prototyping, custom firmware, or full system integration — we love solving hard problems at the intersection of hardware and software.
+
+Explore our [projects](/blog/projects) or dive into the [blog](/blog/blog) to see what we've been working on.
 
