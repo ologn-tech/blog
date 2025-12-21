@@ -5,7 +5,7 @@ description: >-
   Technical insights from O(log n) — your partner in embedded software development,
   firmware engineering, and hardware design. Sharing knowledge from real-world
   embedded systems projects.
-image: /assets/images/main.avif
+image: /assets/images/main.jpg
 main_content: >
   # O(log n) Engineering Blog
 
