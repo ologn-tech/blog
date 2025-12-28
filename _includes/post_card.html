@@ -4,7 +4,7 @@
       {% assign random_id = include.post.date | date: "%s" %}
       {% assign random_image = 'https://picsum.photos/600/400/?blur&random=' | append: random_id %}
       <div class="hover:opacity-90 transition duration-300 w-full h-60 bg-cover bg-center rounded-lg"
-        style="background-image: url('{{ include.post.image | default: random_image }}')">
+        style="background-image: url('{{ include.post.image | relative_url | default: random_image }}')">
       </div>
     </a>
     <div class="pt-6">

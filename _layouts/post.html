@@ -24,9 +24,9 @@ layout: default
           {% assign words = content | number_of_words %}
           {% if words < 360 %} 1 min {% else %} {{ words | divided_by: 180 }} mins {% endif %} </p>
       </div>
-      <div>
+      <!-- <div>
         {% include sharing.html %}
-      </div>
+      </div> -->
     </div>
 
     {% if page.image %}
@@ -37,13 +37,13 @@ layout: default
       {{content}}
     </div>
 
-    <div class="mx-auto py-8">
+    <!-- <div class="mx-auto py-8">
       <p class="text-center font-extrabold italic">
         {{ site.data[site.active_lang].strings.post.share | default:
         site.data['en'].strings.post.share}}
       </p>
       {% include sharing.html %}
-    </div>
+    </div> -->
 
     <div class="font-mulish flex justify-center mb-10">
       {% if page.previous.url %}
